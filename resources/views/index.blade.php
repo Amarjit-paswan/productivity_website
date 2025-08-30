@@ -18,6 +18,7 @@
     .bg_color{
         background-color: var(--background_color);
         color:var(--text_color);
+        font: 10px;
     }
 
     .text_color{
