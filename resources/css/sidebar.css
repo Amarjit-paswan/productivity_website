@@ -1,0 +1,24 @@
+@import "./theme.css";
+
+/* sidebar  */
+.sidebar{
+    background-color: var(--background_color);
+    color: var(--text_color);
+    min-height:100vh;
+    width:220px;
+}
+
+
+.menu-items  ul li a{
+    padding: .4rem .6rem;
+    background-color: #27384c;
+    color: var(--text_color);
+    text-decoration: none;
+    font-weight: 600;
+    border-radius: 5px;
+}
+
+.menu-items  ul li a:hover{
+    background-color: #36495c;
+
+}
